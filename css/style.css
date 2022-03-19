@@ -1,0 +1,11 @@
+#navbar{
+  top:2em;
+  position:fixed;
+  text-align: left;
+  float:left;
+}
+#main-doc{
+  position: absolute;
+  text-align: left;
+  left:20%;
+}
